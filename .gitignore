@@ -1,0 +1,8 @@
+# Compiled Binaries
+server
+*.out
+*.o
+
+# IDE/System Files
+.vscode/
+.DS_Store
